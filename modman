@@ -1,0 +1,5 @@
+src/app/code/core/Mage/PageCache/                                              app/code/core/Mage/PageCache/
+src/app/design/adminhtml/default/default/layout/pagecache.xml                  app/design/adminhtml/default/default/layout/pagecache.xml
+src/app/design/adminhtml/default/default/template/pagecache/                   app/design/adminhtml/default/default/template/pagecache/
+src/app/etc/modules/Mage_PageCache.xml                                         app/etc/modules/Mage_PageCache.xml
+src/app/locale/en_US/Mage_PageCache.csv                                        app/locale/en_US/Mage_PageCache.csv

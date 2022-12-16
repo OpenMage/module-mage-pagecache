@@ -1,0 +1,15 @@
+{
+    "name": "openmage/module-mage-pagecache",
+    "description": "Mage_PageCache classes for backward compatibility.",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Sven Reichel",
+            "homepage":"https://github.com/sreichel"
+        }
+    ]
+}
